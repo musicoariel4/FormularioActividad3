@@ -8,7 +8,6 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 public class DatosIngresados extends AppCompatActivity {
-
     public static final String EXTRA_REPLY = "com.musicoariel4.identidadpersonalizada.DatosIngredos.extra.REPLY";
     public static final String EXTRA_REPLY2 = "com.musicoariel4.identidadpersonalizada.DatosIngredos.extra.REPLY2";
     public static final String EXTRA_REPLY3 = "com.musicoariel4.identidadpersonalizada.DatosIngredos.extra.REPLY3";
