@@ -45,10 +45,10 @@ public class DatosIngresados extends AppCompatActivity {
         tvDescripConta = bundle.getString("descripContacto");
 
         txtNombre.setText(tvNombreConta);
-        txtFecha.setText(tvFechaConta);
-        txtTelefono.setText(tvTelefConta);
-        txtEmail.setText(tvEmailConta);
-        txtDescrip.setText(tvDescripConta);
+        txtFecha.setText("fecha de Nacimiento  "+tvFechaConta);
+        txtTelefono.setText("Telefono  "+tvTelefConta);
+        txtEmail.setText("Email "+tvEmailConta);
+        txtDescrip.setText("Descripcion  "+tvDescripConta);
 
     }
 
