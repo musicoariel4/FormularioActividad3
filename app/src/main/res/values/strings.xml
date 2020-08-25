@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IdentidadPersonalizada</string>
+    <string name="labelNombre">Nombre Completo</string>
+    <string name="labelTelefono">Telefono</string>
+    <string name="labelEmail">Email</string>
+    <string name="labelDesc">Descripcion Contacto</string>
+    <string name="labelfecha">Fecha  Nacimiento</string>
+    <string name="label">Nombre Completo</string>
+    <string name="nombre">Nombre de persona</string>
+    <string name="telefono">Telefono de persona</string>
+    <string name="Email">Email de persona</string>
+    <string name="pnombre">nombre</string>
+</resources>
